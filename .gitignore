@@ -1,0 +1,23 @@
+# Large dataset files (exceed GitHub 100MB limit)
+*.csv
+*.tsv
+*.json
+
+# Trained model binaries (too large)
+model_rf.pkl
+model_kisti_rf.pkl
+
+# IDE cache
+.vs/
+*.pyproj
+*.sln
+*.vsidx
+*.suo
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
