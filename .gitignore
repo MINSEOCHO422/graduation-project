@@ -1,7 +1,6 @@
 # Large dataset files (exceed GitHub 100MB limit)
 *.csv
 *.tsv
-*.json
 
 # Trained model binaries (too large)
 model_rf.pkl
